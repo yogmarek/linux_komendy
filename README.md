@@ -1,0 +1,1 @@
+# linux_komendy
